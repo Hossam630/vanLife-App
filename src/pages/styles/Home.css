@@ -1,0 +1,45 @@
+main{
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #FFF7ED ;
+}
+
+.home-main{
+    background: url(Assets/VanLifeHomeimg.png)      
+    center center / cover no-repeat /* position / size */
+    no-repeat                /* repeat */
+    fixed                    /* attachment */
+    padding-box              /* origin */
+    content-box;              /* clip */
+
+}
+
+.home-main .content-container{
+    padding:100px 20px;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-grow: 1;
+    
+}
+
+.home-main .content-container h1{
+    font-weight: 800;
+}
+.home-main .content-container button{
+    width: 100%;
+    padding: 20px;
+    font-size: 1.3rem;
+    font-weight: 600;
+    background-color: #FF8C38;
+    color: white;
+    border-radius: 5px;
+    border:none;
+    margin-top: 50px;
+    text-align: center;
+}
+
+

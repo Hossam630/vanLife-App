@@ -1,0 +1,28 @@
+.vans-main{
+    align-items: start;
+    padding: 20px;
+}
+
+.vans-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    gap:40px;
+}
+
+.filterBtns-container button{
+    padding: 10px 0;
+    width: 150px;
+    margin-right: 20px;
+    margin-bottom:20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.5rem;
+}
+.filterBtns-container .clearFiltersBtn{
+background-color: transparent;
+text-decoration: underline;
+font-size: 1.3rem;
+
+}

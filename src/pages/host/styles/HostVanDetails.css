@@ -1,0 +1,53 @@
+
+.hostVanDetails-container{
+    padding: 20px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.hostVanDetails-container .host-van-container{
+    display: flex;
+    align-items: center;
+}
+
+
+.host-van-container img{
+    margin-right: 20px;
+    width:200px;
+}
+
+.van-container .van-price-container{
+    flex-direction: row;
+    align-items: center;
+}
+
+.hostVanDetailsNav{
+    background-color: transparent;
+    justify-content: start;
+
+}
+.hostVanDetailsNav .active{
+    font-weight: bold;
+    text-decoration:underline;
+}
+
+.details-info-container span{
+    font-weight: bold;
+}
+.details-info-container p{
+    margin:10px 0;
+}
+
+.price-info-container h1{
+    margin: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.price-info-container span{
+    font-weight: 600;
+    font-size: 1.5rem;
+}

@@ -1,0 +1,37 @@
+
+
+.vanDetails-container{
+    width: min(800px,100%);
+    background-color:#FFF7ED;
+    padding:50px 30px;
+}
+.vanDetails-container a{
+    text-decoration: underline;
+}
+
+.vanDetails-container img{
+    width:100%;
+    margin:50px 0;
+}
+
+.vanDetails-container .van-type-container{
+    margin-bottom: 40px;
+}
+
+.vanDetails-container .price-container{
+    display: flex;
+    align-items: center;
+    margin:15px 0;
+}
+
+.vanDetails-container button{
+    width: 100%;
+    padding: 20px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    border:none;
+    background-color:#E17654;
+    color:white;
+    border-radius: 5px;
+    margin-top: 50px;
+}

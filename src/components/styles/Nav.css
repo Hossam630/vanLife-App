@@ -1,0 +1,33 @@
+nav{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding: 30px 10px;
+    background-color: #FFF7ED;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+
+}
+.mainNav{
+    z-index: 1;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+    font-weight: 500;
+
+}
+
+nav a{
+    margin:2px 20px;
+}
+
+
+.nav-title{
+    font-size: 2rem;
+    flex-grow: 1;
+    font-weight: 800;
+}
+  
