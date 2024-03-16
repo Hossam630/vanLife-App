@@ -32,7 +32,7 @@ import requireAuth from "./utils/requireAuth";
 const router = createBrowserRouter(
   createRoutesFromElements(
     <>
-      <Route path="/" element={<AppLayout />} errorElement={<Error/>}>
+      <Route path="/vanLife-app" element={<AppLayout />} errorElement={<Error/>}>
         <Route index element={<Home />} />
 
         <Route
