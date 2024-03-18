@@ -6,7 +6,7 @@ export default function ErrorPage(){
         <main style={{justifyContent:'center',textAlign:'center',padding:'50px'}}>
             <h1>Sorry, page not found or Expired</h1>
             <h1 style={{fontSize:'4rem'}}>🕵🏽</h1>
-            <Link to={'.'}
+            <Link to={'/vanLife-app'}
                 style={{
                     width:'min(100%,500px)',
                     padding:'20px',
