@@ -29,7 +29,7 @@ function displayHostVans(vansList) {
 }
   const vanItems = vansList?.map((van) => {
     return (
-      <Link to={`/Host/vans/${van.id}`}>
+      <Link to={van.id}>
         <div className="hostVan-container">
           <img src={van.imageUrl} />
           <div>

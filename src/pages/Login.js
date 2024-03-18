@@ -14,7 +14,7 @@ export async function loginAction({ request }) {
   const Email = formData.get("Email").toLowerCase();
   const Password = formData.get("Password");
   const url = new URL(request.url)
-  const destination = url.searchParams.get("redirectTo") || "/host"
+  const destination = url.searchParams.get("redirectTo") || "../host"
   try {
    const userID = await loginUser({ Email, Password });
     localStorage.setItem("loggedIn",true);
