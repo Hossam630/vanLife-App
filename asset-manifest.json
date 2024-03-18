@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f005822.css",
-    "main.js": "/static/js/main.1123ee34.js",
-    "static/media/VanLifeHomeimg.png": "/static/media/VanLifeHomeimg.b9519720b1013870062a.png",
-    "static/media/VanLifeAboutimg.png": "/static/media/VanLifeAboutimg.405892ab2007e5993ffa.png",
-    "static/media/income-graph.PNG": "/static/media/income-graph.3ea9a50fb02995a2d05e.PNG",
-    "static/media/review-graph.PNG": "/static/media/review-graph.24c0e63e5661776f1dfc.PNG",
-    "static/media/login-svgrepo-com.svg": "/static/media/login-svgrepo-com.7bcbc9f049f46f59ec07305f744f021a.svg",
-    "index.html": "/index.html",
-    "static/media/logout-2-svgrepo-com.svg": "/static/media/logout-2-svgrepo-com.f17cb88f59b596596600385aa6634f08.svg",
-    "main.9f005822.css.map": "/static/css/main.9f005822.css.map",
-    "main.1123ee34.js.map": "/static/js/main.1123ee34.js.map"
+    "main.css": "/vanLife-app/static/css/main.6278d4a2.css",
+    "main.js": "/vanLife-app/static/js/main.87e467e9.js",
+    "static/media/VanLifeHomeimg.png": "/vanLife-app/static/media/VanLifeHomeimg.b9519720b1013870062a.png",
+    "static/media/VanLifeAboutimg.png": "/vanLife-app/static/media/VanLifeAboutimg.405892ab2007e5993ffa.png",
+    "static/media/income-graph.PNG": "/vanLife-app/static/media/income-graph.3ea9a50fb02995a2d05e.PNG",
+    "static/media/review-graph.PNG": "/vanLife-app/static/media/review-graph.24c0e63e5661776f1dfc.PNG",
+    "static/media/login-svgrepo-com.svg": "/vanLife-app/static/media/login-svgrepo-com.7bcbc9f049f46f59ec07305f744f021a.svg",
+    "index.html": "/vanLife-app/index.html",
+    "static/media/logout-2-svgrepo-com.svg": "/vanLife-app/static/media/logout-2-svgrepo-com.f17cb88f59b596596600385aa6634f08.svg",
+    "main.6278d4a2.css.map": "/vanLife-app/static/css/main.6278d4a2.css.map",
+    "main.87e467e9.js.map": "/vanLife-app/static/js/main.87e467e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f005822.css",
-    "static/js/main.1123ee34.js"
+    "static/css/main.6278d4a2.css",
+    "static/js/main.87e467e9.js"
   ]
 }
